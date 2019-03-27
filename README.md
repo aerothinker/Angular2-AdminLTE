@@ -1,5 +1,5 @@
 **THE 3.0.0 VERSION IS UNDER DEVELOPMENT, CHECK [V3.0.0 BRANCH](https://github.com/csotomon/Angular2-AdminLTE/tree/v3.0.0)**
-
+![Alt text](screen1.png?raw=true "Title")
 
 Introduction
 ============
